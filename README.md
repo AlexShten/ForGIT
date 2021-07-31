@@ -1,7 +1,7 @@
 # ForGIT
 GIT home works
 
-
+PART1:
 Alex@AlexPC MINGW64 ~/Desktop/HWGIT/ForGIT (main)
 $ git checkout -b feature2
 Switched to a new branch 'feature2'
@@ -62,6 +62,8 @@ $ git log --oneline --decorate --graph --all
 * 462148e add new file
 * b7618ec Initial commit
 
+
+PART2:
 Alex@AlexPC MINGW64 ~/Desktop/HWGIT/ForGIT (feature2)
 $ git reset 4ef4ae4
 Unstaged changes after reset:
@@ -129,6 +131,8 @@ $ git log --oneline --decorate --graph --all
 * 462148e add new file
 * b7618ec Initial commit
 
+
+PART3:
 Alex@AlexPC MINGW64 ~/Desktop/HWGIT/ForGIT (feature2)
 $ git checkout main
 Switched to branch 'main'
